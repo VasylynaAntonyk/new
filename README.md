@@ -1,1 +1,3 @@
 # new
+public void main {
+}
